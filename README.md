@@ -1,5 +1,7 @@
 # myntra.com-Clone
 
+This is a assignment project from masaischool which we have created in 6 days.
+
 Tech stack used -Html ,css,javascript,Bootstrap ,github .
 
 
