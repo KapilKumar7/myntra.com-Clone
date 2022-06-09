@@ -5,7 +5,7 @@ Tech stack used -Html ,css,javascript,Bootstrap ,github .
 
 Team members -AkashKeshari111 ,sgovind158 ,AtulPandey429,Rishon-A-Singh 
 
-Link to our Website-
+Link to our Website-https://silly-custard-061700.netlify.app/
 
 Some pictures of Our site--![Capture](https://user-images.githubusercontent.com/100344844/167430234-73f2563e-4876-4126-bca2-bb7e7eb2a5d4.PNG)
 ![2](https://user-images.githubusercontent.com/100344844/167430328-aab68553-4e36-4e17-a345-f2455f9185f2.PNG)
